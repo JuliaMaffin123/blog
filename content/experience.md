@@ -20,16 +20,16 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Навыки & Хобби
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
     content:
-      title: Awards
+      title: Награды
       username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: Языки
       username: admin
 ---

@@ -86,101 +86,106 @@ education:
     summary: |
       Получены навыки построения чертежей в специализированных программах, а также умение программировать станок на создание детали.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Нет опыта работы в компании
+#    company_name: GenCoin
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2021-01-01
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - position: Backend Software Engineer
+#    company_name: X
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 90
+        icon: python
+        icon-pack: fab
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 45
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        percent: 99
         icon: circle-stack
-  - name: Hobbies
+      - name: C++
+        percent: 45
+        icon: code-bracket
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Вязание крючком
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+#        icon: magnifying-glass
+      - name: Котики
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+#        icon: cat
+      - name: Просмотр юмористических шоу
+        description: ''
+        percent: 100
+#        icon: one
 
 languages:
-  - name: English
+  - name: Английский
+    percent: 50
+  - name: Испанский
+    percent: 20
+  - name: Русский
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Всероссийская Олимпиада Школьников "Технология. Культура дома" 2023-2024
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2024-04-20'
+    awarder: Министерство просвещения РФ
+#    icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      В 2024 году, в 11-ом классе, я стала призером заключительного этапа ВсОШ по технологии. В качестве проекта была представлена коллекция одежды "Костер рябины красной" в народных мотивах. За практический этап был получен почти наивысший балл, за теоретический также довольно хороший результат. Был получен незаменимый опыт выступления с проектом перед жюри.
+  - title: Всероссийская Олимпиада Школьников "Технология. Культура дома" 2022-2023
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-04-22'
+    awarder: Министерство просвещения РФ
+#    icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      В 2023 году, в 10-ом классе, я стала призером заключительного этапа ВсОШ по технологии. В качестве проекта была представлена коллекция одежды "Лоскутная магия" в технике лоскутного шитья. Был получен незаменимый опыт выступления с проектом перед жюри.
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: Прикладной конкурс для школьников "Золотая дюжина"
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+    date: '2023-02-14'
+    awarder: РТУ МИРЭА
+#    icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      В время обучения в школе были организованы дополнительные курсы в РТУ МИРЭА, на которых были получены навыки 3д моделирования в программе Blender. За период прохождения курса была создана анимированная 3д-модель механического дракона в стиле стим-панк. Проект, представленный на конкурс, победил в заключительном этапе.
 ---
 
 ## Про меня

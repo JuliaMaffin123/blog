@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/academic/</link>
+      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>http://localhost:1313/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Как я провела прошлую неделю</title>
-      <link>https://example.com/post/post1/</link>
+      <link>http://localhost:1313/post/post1/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -47,9 +47,9 @@
     
     <item>
       <title>🎉 Управление версиями. Git.</title>
-      <link>https://example.com/post/post1withtema/</link>
+      <link>http://localhost:1313/post/post1withtema/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1withtema/</guid>
+      <guid>http://localhost:1313/post/post1withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -97,9 +97,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

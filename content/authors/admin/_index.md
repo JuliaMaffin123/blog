@@ -37,14 +37,24 @@ profiles:
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/JuliaMaffin123
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+  - icon: tr\_so\_logo
+    url: https://elibrary.ru/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0002-3294-7664
+  - icon: mendeley
+    url: https://www.mendeley.com/
+  - icon: resgate
+    url: https://www.researchgate.net/profile/Ulia-Polakova-2
+  - icon: academy
+    url: https://independent.academia.edu/%D0%AE%D0%BB%D1%8F%D0%9F%D0%BE%D0%BB%D1%8F%D0%BA%D0%BE%D0%B2%D0%B02
+  - icon: archiv
+    url: https://arxiv.org/
+  - icon: brands/github
+    url: https://github.com/JuliaMaffin123
 
 interests:
   - Разработка мобильных приложений

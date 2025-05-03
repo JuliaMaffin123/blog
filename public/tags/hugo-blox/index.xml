@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Blox | Hugo Academic CV Theme</title>
-    <link>https://JuliaMaffin123.github.io/blog/tags/hugo-blox/</link>
-      <atom:link href="https://JuliaMaffin123.github.io/blog/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/hugo-blox/</link>
+      <atom:link href="https://example.com/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JuliaMaffin123.github.io/blog/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
-      <link>https://JuliaMaffin123.github.io/blog/tags/hugo-blox/</link>
+      <link>https://example.com/tags/hugo-blox/</link>
     </image>
     
     <item>
       <title>Как я провела прошлую неделю x3</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post3/</link>
+      <link>https://example.com/post/post3/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post3/</guid>
+      <guid>https://example.com/post/post3/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -58,10 +58,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Выпуск &amp;ldquo;Мотоистория&amp;rdquo;&#34; srcset=&#34;
-               /blog/post/post3/rebyata_hu_f140ef43f0999b88.webp 400w,
-               /blog/post/post3/rebyata_hu_55d167c0da5beb5.webp 760w,
-               /blog/post/post3/rebyata_hu_a538fe84e9403eff.webp 1200w&#34;
-               src=&#34;https://JuliaMaffin123.github.io/blog/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
+               /post/post3/rebyata_hu_f140ef43f0999b88.webp 400w,
+               /post/post3/rebyata_hu_55d167c0da5beb5.webp 760w,
+               /post/post3/rebyata_hu_a538fe84e9403eff.webp 1200w&#34;
+               src=&#34;https://example.com/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -75,9 +75,9 @@
     
     <item>
       <title>Создание презентаций в Markdown</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post3withtema/</link>
+      <link>https://example.com/post/post3withtema/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post3withtema/</guid>
+      <guid>https://example.com/post/post3withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -331,9 +331,9 @@
     
     <item>
       <title>Как я провела прошлую неделю x2</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post2/</link>
+      <link>https://example.com/post/post2/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post2/</guid>
+      <guid>https://example.com/post/post2/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -372,10 +372,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Сказка о горделивом дереве&#34; srcset=&#34;
-               /blog/post/post2/injir_hu_729d526c264be3ce.webp 400w,
-               /blog/post/post2/injir_hu_71d40d3eae8675f2.webp 760w,
-               /blog/post/post2/injir_hu_595d588b696e77e4.webp 1200w&#34;
-               src=&#34;https://JuliaMaffin123.github.io/blog/post/post2/injir_hu_729d526c264be3ce.webp&#34;
+               /post/post2/injir_hu_729d526c264be3ce.webp 400w,
+               /post/post2/injir_hu_71d40d3eae8675f2.webp 760w,
+               /post/post2/injir_hu_595d588b696e77e4.webp 1200w&#34;
+               src=&#34;https://example.com/post/post2/injir_hu_729d526c264be3ce.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,9 +392,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post2withtema/</link>
+      <link>https://example.com/post/post2withtema/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post2withtema/</guid>
+      <guid>https://example.com/post/post2withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -429,9 +429,9 @@
     
     <item>
       <title>Как я провела прошлую неделю</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post1/</link>
+      <link>https://example.com/post/post1/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post1/</guid>
+      <guid>https://example.com/post/post1/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -462,9 +462,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post1withtema/</link>
+      <link>https://example.com/post/post1withtema/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post1withtema/</guid>
+      <guid>https://example.com/post/post1withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -512,9 +512,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -598,9 +598,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/data-visualization/</link>
+      <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/data-visualization/</guid>
+      <guid>https://example.com/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -611,7 +611,7 @@
 
 
 
-&lt;div id=&#34;chart-258913674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-345869172&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -629,7 +629,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-258913674&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-345869172&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -808,9 +808,9 @@ Crash --&gt; [*]
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/project-management/</link>
+      <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/project-management/</guid>
+      <guid>https://example.com/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

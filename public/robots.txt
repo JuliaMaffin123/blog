@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://JuliaMaffin123.github.io/blog/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://JuliaMaffin123.github.io/blog/tags/academic/</link>
-      <atom:link href="https://JuliaMaffin123.github.io/blog/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/academic/</link>
+      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JuliaMaffin123.github.io/blog/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>https://JuliaMaffin123.github.io/blog/tags/academic/</link>
+      <link>https://example.com/tags/academic/</link>
     </image>
     
     <item>
       <title>Как я провела прошлую неделю x3</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post3/</link>
+      <link>https://example.com/post/post3/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post3/</guid>
+      <guid>https://example.com/post/post3/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -58,10 +58,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Выпуск &amp;ldquo;Мотоистория&amp;rdquo;&#34; srcset=&#34;
-               /blog/post/post3/rebyata_hu_f140ef43f0999b88.webp 400w,
-               /blog/post/post3/rebyata_hu_55d167c0da5beb5.webp 760w,
-               /blog/post/post3/rebyata_hu_a538fe84e9403eff.webp 1200w&#34;
-               src=&#34;https://JuliaMaffin123.github.io/blog/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
+               /post/post3/rebyata_hu_f140ef43f0999b88.webp 400w,
+               /post/post3/rebyata_hu_55d167c0da5beb5.webp 760w,
+               /post/post3/rebyata_hu_a538fe84e9403eff.webp 1200w&#34;
+               src=&#34;https://example.com/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -75,9 +75,9 @@
     
     <item>
       <title>Создание презентаций в Markdown</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post3withtema/</link>
+      <link>https://example.com/post/post3withtema/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post3withtema/</guid>
+      <guid>https://example.com/post/post3withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -331,9 +331,9 @@
     
     <item>
       <title>Как я провела прошлую неделю x2</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post2/</link>
+      <link>https://example.com/post/post2/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post2/</guid>
+      <guid>https://example.com/post/post2/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -372,10 +372,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Сказка о горделивом дереве&#34; srcset=&#34;
-               /blog/post/post2/injir_hu_729d526c264be3ce.webp 400w,
-               /blog/post/post2/injir_hu_71d40d3eae8675f2.webp 760w,
-               /blog/post/post2/injir_hu_595d588b696e77e4.webp 1200w&#34;
-               src=&#34;https://JuliaMaffin123.github.io/blog/post/post2/injir_hu_729d526c264be3ce.webp&#34;
+               /post/post2/injir_hu_729d526c264be3ce.webp 400w,
+               /post/post2/injir_hu_71d40d3eae8675f2.webp 760w,
+               /post/post2/injir_hu_595d588b696e77e4.webp 1200w&#34;
+               src=&#34;https://example.com/post/post2/injir_hu_729d526c264be3ce.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,9 +392,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post2withtema/</link>
+      <link>https://example.com/post/post2withtema/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post2withtema/</guid>
+      <guid>https://example.com/post/post2withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -429,9 +429,9 @@
     
     <item>
       <title>Как я провела прошлую неделю</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post1/</link>
+      <link>https://example.com/post/post1/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post1/</guid>
+      <guid>https://example.com/post/post1/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -462,9 +462,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/post1withtema/</link>
+      <link>https://example.com/post/post1withtema/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/post1withtema/</guid>
+      <guid>https://example.com/post/post1withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -512,9 +512,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://JuliaMaffin123.github.io/blog/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JuliaMaffin123.github.io/blog/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

@@ -11,8 +11,10 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      # title: Selected Projects
+      # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Мои проекты
+      text: Все проекты, которые я когда-либо делала.
       filters:
         folders:
           - project

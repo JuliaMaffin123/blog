@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Блог | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Блог</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Блог</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://example.com/post/</link>
     </image>
     
     <item>
       <title>Как я провела прошлую неделю x4</title>
-      <link>http://localhost:1313/post/post4/</link>
+      <link>https://example.com/post/post4/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post4/</guid>
+      <guid>https://example.com/post/post4/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -60,7 +60,7 @@
                /post/post4/su_hu_26efded82f405726.webp 400w,
                /post/post4/su_hu_f70447dff99f501d.webp 760w,
                /post/post4/su_hu_62a36a50d029dff7.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post4/su_hu_26efded82f405726.webp&#34;
+               src=&#34;https://example.com/post/post4/su_hu_26efded82f405726.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -73,10 +73,81 @@
     </item>
     
     <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/post4withtema/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4withtema/</guid>
+      <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#r&#34;&gt;R&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#matlaboctave&#34;&gt;MATLAB/Octave&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#julia&#34;&gt;Julia&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование — область разработки программного обеспечения, направленная на решение сложных научных и инженерных задач, обработку больших объемов данных, проведение численных экспериментов и моделирования различных процессов. Рассмотрим наиболее популярные языки, используемые в научном программировании.&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;Python является одним из самых популярных языков в научной среде благодаря своей простоте, удобству чтения и широкому спектру библиотек. Вот некоторые из них:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NumPy&lt;/strong&gt;: библиотека для работы с многомерными массивами и матрицами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: мощный инструмент для анализа и обработки структурированных данных.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matplotlib&lt;/strong&gt;, Seaborn и другие библиотеки визуализации позволяют создавать графики и диаграммы высокой сложности.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scikit-Learn&lt;/strong&gt;: популярная библиотека машинного обучения, позволяющая быстро строить модели классификации, регрессии и кластеризации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример простой программы на Python для расчета интеграла методом Монте-Карло:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;numpy&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;np&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;monte_carlo_integral&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;np&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;random&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;uniform&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;np&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;mean&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;([&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;xi&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;xi&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;])&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Пример вычисления интеграла от sin(x) на отрезке [0, pi]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;result&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;monte_carlo_integral&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;np&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sin&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;np&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pi&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;100000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Результат:&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;result&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;p&gt;R широко используется в статистическом анализе и обработке данных. Его популярность обусловлена мощными возможностями графического представления результатов исследований и встроенными инструментами для построения моделей и тестов гипотез.&lt;/p&gt;
+&lt;p&gt;Пример простого линейного регрессионного анализа на R:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-make&#34; data-lang=&#34;make&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;c(1,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;2,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;3,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;4,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;5)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;c(2,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;3,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;5,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;7,&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;8)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;model&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;lm(y&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;~&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;x)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;summary(model)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;matlaboctave&#34;&gt;MATLAB/Octave&lt;/h2&gt;
+&lt;p&gt;MATLAB — один из старейших инструментов для инженерии и науки, предлагающий мощные возможности для численного анализа, символьных вычислений и визуализации. Octave представляет собой свободную альтернативу MATLAB с совместимым синтаксисом.&lt;/p&gt;
+&lt;p&gt;Пример простого скрипта на MATLAB для решения дифференциального уравнения:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-make&#34; data-lang=&#34;make&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;%&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;Решение&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;y&amp;#39;&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; e^x
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;syms&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;y(t);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;eqn&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; diff&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;y,t&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; + &lt;span class=&#34;nv&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; exp&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;t&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;cond&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; y&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;0&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; 1&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;sol&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; dsolve&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;eqn, cond&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;disp(sol);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;p&gt;Julia — относительно новый язык, разработанный специально для высокопроизводительных вычислений и научных приложений. Благодаря динамической типизации и компилятору LLVM, он обеспечивает высокую производительность и удобство разработки.&lt;/p&gt;
+&lt;p&gt;Пример быстрого запуска цикла суммирования массива чисел:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-make&#34; data-lang=&#34;make&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;BenchmarkTools&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; rand&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;Float64, 1_000_000&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# Массив случайных чисел&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;@benchmark&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;sum($a)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Эти четыре языка занимают лидирующие позиции среди ученых и инженеров во всем мире, каждый из них имеет свою уникальную нишу и сильные стороны. Выбор подходящего инструмента зависит от конкретной задачи и предпочтений разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как я провела прошлую неделю x3</title>
-      <link>http://localhost:1313/post/post3/</link>
+      <link>https://example.com/post/post3/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post3/</guid>
+      <guid>https://example.com/post/post3/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -121,7 +192,7 @@
                /post/post3/rebyata_hu_f140ef43f0999b88.webp 400w,
                /post/post3/rebyata_hu_55d167c0da5beb5.webp 760w,
                /post/post3/rebyata_hu_a538fe84e9403eff.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
+               src=&#34;https://example.com/post/post3/rebyata_hu_f140ef43f0999b88.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,9 +206,9 @@
     
     <item>
       <title>Создание презентаций в Markdown</title>
-      <link>http://localhost:1313/post/post3withtema/</link>
+      <link>https://example.com/post/post3withtema/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post3withtema/</guid>
+      <guid>https://example.com/post/post3withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -391,9 +462,9 @@
     
     <item>
       <title>Как я провела прошлую неделю x2</title>
-      <link>http://localhost:1313/post/post2/</link>
+      <link>https://example.com/post/post2/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post2/</guid>
+      <guid>https://example.com/post/post2/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -435,7 +506,7 @@
                /post/post2/injir_hu_729d526c264be3ce.webp 400w,
                /post/post2/injir_hu_71d40d3eae8675f2.webp 760w,
                /post/post2/injir_hu_595d588b696e77e4.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post2/injir_hu_729d526c264be3ce.webp&#34;
+               src=&#34;https://example.com/post/post2/injir_hu_729d526c264be3ce.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -452,9 +523,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/post/post2withtema/</link>
+      <link>https://example.com/post/post2withtema/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post2withtema/</guid>
+      <guid>https://example.com/post/post2withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -489,9 +560,9 @@
     
     <item>
       <title>Как я провела прошлую неделю</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <link>https://example.com/post/post1/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>https://example.com/post/post1/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -522,9 +593,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>http://localhost:1313/post/post1withtema/</link>
+      <link>https://example.com/post/post1withtema/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1withtema/</guid>
+      <guid>https://example.com/post/post1withtema/</guid>
       <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
 
 
@@ -572,9 +643,9 @@
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -658,9 +729,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>https://example.com/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>https://example.com/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -770,9 +841,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>https://example.com/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -783,7 +854,7 @@
 
 
 
-&lt;div id=&#34;chart-813275964&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-473256819&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -801,7 +872,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-813275964&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-473256819&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -980,9 +1051,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>https://example.com/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>https://example.com/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1031,7 +1102,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1090,9 +1161,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>https://example.com/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

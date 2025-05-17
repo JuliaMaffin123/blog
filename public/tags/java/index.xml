@@ -2,22 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/java/</link>
-      <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/java/</link>
+      <atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <description>Java</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://example.com/tags/java/</link>
     </image>
     
     <item>
       <title>MyCart</title>
-      <link>http://localhost:1313/project/mycart/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mycart/</guid>
+      <link>https://example.com/project/mycart/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/mycart/</guid>
       <description>&lt;p&gt;Мобильное приложение на Java. Позволяет по ингредиентам рецепта (или нескольких рецептов) составить список покупок и сохранить его.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MUD</title>
+      <link>https://example.com/project/mud/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/mud/</guid>
+      <description>&lt;p&gt;Мобильная текстовая игра на Java. Цель игрока - выбраться из зачарованного леса. Для управления персонажем в игре используются простые текстовые команды.&lt;/p&gt;</description>
     </item>
     
   </channel>

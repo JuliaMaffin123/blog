@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
       <title>Внешний курс</title>
-      <link>http://localhost:1313/project/stepik/</link>
+      <link>https://example.com/project/stepik/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stepik/</guid>
+      <guid>https://example.com/project/stepik/</guid>
       <description>&lt;p&gt;В проекте представлены подробнейшие отчеты о прохождении внешнего курса &amp;ldquo;Введение в Linux&amp;rdquo; на stepik&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MyCart</title>
-      <link>http://localhost:1313/project/mycart/</link>
+      <link>https://example.com/project/mycart/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mycart/</guid>
+      <guid>https://example.com/project/mycart/</guid>
       <description>&lt;p&gt;Мобильное приложение на Java. Позволяет по ингредиентам рецепта (или нескольких рецептов) составить список покупок и сохранить его.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MUD</title>
-      <link>http://localhost:1313/project/mud/</link>
+      <link>https://example.com/project/mud/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mud/</guid>
+      <guid>https://example.com/project/mud/</guid>
       <description>&lt;p&gt;Мобильная текстовая игра на Java. Цель игрока - выбраться из зачарованного леса. Для управления персонажем в игре используются простые текстовые команды.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Мини ЭЖД</title>
-      <link>http://localhost:1313/project/e-journal/</link>
+      <link>https://example.com/project/e-journal/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/e-journal/</guid>
+      <guid>https://example.com/project/e-journal/</guid>
       <description>&lt;p&gt;Совместный проект в рамках курса Яндекс Лицея. Упрощенный электронный журнал.&lt;/p&gt;</description>
     </item>
     
